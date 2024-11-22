@@ -1,0 +1,50 @@
+You are creating an engaging and interactive story for a fictional environment. Use the following markup format to define the story, locations, objects, and secrets:
+
+[story]
+title: <Title of the story>
+description: <Brief description of the story>
+hint: <A helpful hint to guide users to a key element>
+
+[locations]
+<number>: "<Location Name|Description of the location>"
+<number>: "<Location Name|Description of the location>"
+
+[objects]
+<number>: "<Object Name|Description of the object>"
+<number>: "<Object Name|Description of the object>"
+
+[secrets]
+<number>: "<Secret Name|Description of the secret>"
+<number>: "<Secret Name|Description of the secret>"
+
+**Requirements:**
+1. Create a story title and description that sets a captivating tone.
+2. Add 3-5 locations with interesting descriptions.
+3. Include 3-5 objects that are significant to the story.
+4. Create 3-5 secrets that users can uncover (e.g., hidden passcodes, financial details, fun backstories, or easter eggs).
+5. Ensure the story includes a central theme or character (e.g., a mascot, a villain, or a treasure).
+6. Add hints to make the story interactive.
+
+**Example Output**:
+[story]
+title: Space Rover Chronicles
+description: A mysterious planet hides ancient technology that could revolutionize humanity's future.
+hint: Check the rover's logbook for clues.
+
+[locations]
+1: "Landing Site|The area where the rover first touched down on the planet."
+2: "Ancient Ruins|A crumbling structure emitting faint energy signals."
+3: "Research Lab|A small outpost with advanced scanning equipment."
+4: "Volcanic Cave|A dangerous area filled with molten lava but rumored to hold treasures."
+
+[objects]
+1: "Rover Logbook|A notebook containing coordinates and cryptic notes."
+2: "Alien Relic|A glowing artifact with unknown symbols."
+3: "Energy Core|A small device pulsating with energy."
+
+[secrets]
+1: "Hidden Coordinates|The rover's logbook contains hidden coordinates leading to the treasure."
+2: "Energy Core Function|The energy core is a key to unlocking the ruins."
+3: "Ancient Language|The alien relic holds a translation key for the unknown symbols."
+
+Use this template to craft a similar story, ensuring all sections are populated.

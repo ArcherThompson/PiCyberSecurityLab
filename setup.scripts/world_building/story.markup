@@ -1,0 +1,26 @@
+[story]
+title: LazorLabs: The Future of Innovation
+description: LazorLabs, a tech startup revolutionizing laser technologies, holds groundbreaking secrets and hidden treasures.
+hint: Gus knows the way to the vault.
+
+[locations]
+1: "Headquarters|A sleek, glass-fronted building located downtown, housing LazorLabs' main operations."
+2: "Research Lab|A state-of-the-art facility where top-secret laser prototypes are developed."
+3: "CEO Office|A lavish office with modern decor and a locked drawer containing sensitive documents."
+4: "Employee Lounge|A cozy space for employees, featuring a bulletin board with financial updates and a special corner for Gus."
+5: "Vault|A high-security underground room storing LazorLabs' financial records and experimental blueprints."
+
+[objects]
+1: "Laser Prototype|A cutting-edge laser device capable of precision cutting and engraving."
+2: "Confidential File|A file marked 'TOP SECRET' containing details about LazorLabs' next product line."
+3: "Financial Report|A quarterly report revealing the company's revenue, expenses, and R&D budget."
+4: "Gus' Collar|A smart collar with a built-in RFID tag, used to unlock the vault."
+5: "Snack Box|A box of treats for Gus, hidden in the Employee Lounge."
+
+[secrets]
+1: "Hidden Passcode|The vault's passcode (1234-5678) is scribbled on a sticky note in the CEO's drawer."
+2: "Financial Detail|LazorLabs has a revenue of $12.5M but spends $9.8M on R&D, leaving slim profit margins."
+3: "Next Product|The next product, code-named 'Photon Edge,' is a laser engraver for surgical tools."
+4: "Mascot Backstory|Gus, the company mascot, was adopted by the CEO and serves as LazorLabs' unofficial security chief."
+5: "Easter Egg|Gus' snack box contains a QR code that reveals a thank-you message from LazorLabs."
+
