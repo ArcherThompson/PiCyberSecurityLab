@@ -1,6 +1,8 @@
 # **PiCyberSecurityLab**
 A beginner-friendly cybersecurity lab setup designed for Raspberry Pi. This lab includes essential services like a web server, DNS server, FTP server, and a Python-based interactive story database to provide a practical environment for learning and testing cybersecurity skills.
 
+!!!! Please note there are many security bugs in this system designed for exploitation do not use any of this for production environments !!!!
+
 ---
 
 ## **Features**
