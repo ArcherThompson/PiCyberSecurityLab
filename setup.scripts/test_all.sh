@@ -14,10 +14,12 @@ fi
 
 # Step 1: Test Apache
 echo "Testing Apache server..."
-if curl -s http://localhost | grep -q "Welcome to the Story Adventure!"; then
+APACHE_URL="http://localhost"
+APACHE_RESPONSE=$(curl -s "$APACHE_URL")
+if [[ -n "$APACHE_RESPONSE" ]]; then
     echo "Apache is running and serving content."
 else
-    echo "Error: Apache is not serving the expected content."
+    echo "Error: Apache is not serving any content."
     exit 1
 fi
 

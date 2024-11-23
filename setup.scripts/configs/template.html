@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PI Labs Adventure</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f5;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #fafffa;
+        }
+        h2 {
+            color: #5af05a;
+        }
+        a {
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .object-list {
+            list-style: none;
+            padding: 0;
+        }
+        .object-item {
+            background: white;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the PILabs</h1>
+    </header>
+    <main>
+        <h2>Explore</h2>
+        <p>Use the navigation below to explore the Lab:</p>
+        <ul class="object-list">
+            <li class="object-item"><a href="index.php?action=view&id=1">View Object 1</a></li>
+            <li class="object-item"><a href="index.php?action=view&id=2">View Object 2</a></li>
+            <li class="object-item"><a href="index.php?action=view&id=3">View Object 3</a></li>
+        </ul>
+        <p><a href="index.php?action=admin&key=supersecret">Admin Panel</a></p>
+    </main>
+</body>
+</html>
